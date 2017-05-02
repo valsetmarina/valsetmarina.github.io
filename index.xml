@@ -10,12 +10,22 @@
     <atom:link href="http://valsetmarina.no/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>test</title>
+      <title></title>
       <link>http://valsetmarina.no/post/test/</link>
       <pubDate>Thu, 27 Apr 2017 12:58:22 +0200</pubDate>
       
       <guid>http://valsetmarina.no/post/test/</guid>
       <description>&lt;p&gt;Test entry&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Om</title>
+      <link>http://valsetmarina.no/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://valsetmarina.no/about/about/</guid>
+      <description>&lt;p&gt;Vi bygger en ny marina ute på Valset, Agdenes.&lt;/p&gt;
 </description>
     </item>
     
