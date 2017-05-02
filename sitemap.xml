@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>http://valsetmarina.no/services/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://valsetmarina.no/services/marina/</loc>
+  </url>
+  
+  <url>
     <loc>http://valsetmarina.no/</loc>
     <priority>0</priority>
   </url>
